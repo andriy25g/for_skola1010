@@ -1,0 +1,22 @@
+body, html {
+margin:0px;
+padding:0px;
+}
+#maket {
+width:800px;
+margin:0 auto;
+}
+#header{
+background-color:#FFC0FF;
+}
+#left{
+width:400px;
+float:left;
+}
+#right{
+width:400px;
+float:right;
+}
+#footer{
+background-color:#FFC0FF;
+}
