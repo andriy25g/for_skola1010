@@ -12,10 +12,12 @@ background-color:#FFC0FF;
 #left{
 width:400px;
 float:left;
+  border: 10px;
 }
 #right{
 width:400px;
 float:right;
+  border: 10px;
 }
 #footer{
 background-color:#FFC0FF;
