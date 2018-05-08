@@ -2,23 +2,16 @@ body, html {
 margin:0px;
 padding:0px;
 }
-#maket {
-width:800px;
-margin:0 auto;
-}
-#header{
-background-color:#FFC0FF;
-}
-#left{
-width:400px;
-float:left;
-  border: 10px;
-}
-#right{
-width:400px;
-float:right;
-  border: 10px;
-}
-#footer{
-background-color:#FFC0FF;
-}
+.page { background:#ffff66; width:900px; overflow:hidden; }
+.leftcol {
+    float:left; 
+    background:#ccff66; 
+    width:450px; 
+    border-right:1px solid #ff9900;
+ }
+.rightcol { 
+    padding-left:450px;
+    background:#ccff66; }
+.rightcol .content { 
+    background:#ffff66; 
+    border-left:1px solid #ff9900; }
